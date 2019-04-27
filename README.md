@@ -22,7 +22,9 @@ Functional modules:
   -CRM
   -online banking
   -instant chat internaly and with partners
-  -
+  -integrated security
+  -discount/cupon module
+  
 
 
 ## Use case for verticals
@@ -36,6 +38,8 @@ Functional modules:
 ### Tourism services
 ### Additional Services industry
 ### Manufacturing Industry
+### Retail - small 
+### Retail - medium market
 
 
 
