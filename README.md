@@ -10,9 +10,11 @@ Also, the solution will be usable offline.
 
 
 ### Modules
--central admin module
--web tenant admin module
--web
+- central admin module
+- web tenant admin module
+- web management
+- sale point web
+- sale point offline
 
 Functional modules:
   -salary management
