@@ -17,15 +17,15 @@ Also, the solution will be usable offline.
 - sale point offline
 
 Functional modules:
-  -salary management
-  -accounting and management
-  -project management tracking/integration
-  -HR
-  -CRM
-  -online banking
-  -instant chat internaly and with partners
-  -integrated security
-  -discount/cupon module
+  - salary management
+  - accounting and management
+  - project management tracking/integration
+  - HR
+  - CRM
+  - online banking
+  - instant chat internaly and with partners
+  - integrated security
+  - discount/cupon module
   
 
 
